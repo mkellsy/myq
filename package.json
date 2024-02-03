@@ -1,5 +1,5 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "@mkellsy/myq",
     "displayName": "MyQ API",
     "description": "Defines the MyQ APT",
@@ -20,7 +20,7 @@
         "prepublishOnly": "npm run build"
     },
     "dependencies": {
-        "@adobe/fetch": "4.1.0",
+        "@adobe/fetch": "3.6.5",
         "node-html-parser": "6.1.10",
         "pkce-challenge": "3.1.0"
     },
