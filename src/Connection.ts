@@ -1,5 +1,5 @@
 import { configuration } from "./Configuration";
-import { request, status } from "./Request";
+import { request } from "./Request";
 
 import { Account } from "./Interfaces/Account";
 import { Authentication } from "./Authentication";
